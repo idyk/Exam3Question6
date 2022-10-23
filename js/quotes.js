@@ -1,9 +1,8 @@
 //List of quotes.
-const quote1 =
-  "I made this for my project already so I'll have to modify it now.";
+const quote1 = "This quote is so deep.";
 const quote2 = "You know what they say.";
-const quote3 = "If you're in pain, just keep going anyways.";
-const quote4 = "It's ok, things will not get better soon.";
+const quote3 = "Believe in yourself sometimes.";
+const quote4 = "Everything might be ok.";
 const quote5 = "Just when you think it's done, it's not.";
 const quote6 = "When things seem free, you will regret everything instantly.";
 const quote7 = "This quote is famous.";
